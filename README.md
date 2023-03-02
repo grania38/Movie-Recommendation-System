@@ -9,6 +9,8 @@ The IDE used is Pycharm.
 * $ streamlit run main.py
 The app:
 ![recmovire](https://user-images.githubusercontent.com/93519108/222392202-a27e8f3b-26d5-42fc-92a5-91080a0cd042.PNG)
+## The app was deployed using Render (it's free)
+![deployedapp](https://user-images.githubusercontent.com/93519108/222413971-e46fc37e-f53a-455f-8a8e-7e7644221b5c.PNG)
 
 
 
